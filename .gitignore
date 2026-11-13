@@ -1,0 +1,22 @@
+# Evaluation inputs and records stay local
+data/
+runs/
+evidence/
+rerun_evidence/
+rerun_console.log
+*.npz
+*.pt
+*.pth
+*.bin
+*.zip
+*.log
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
